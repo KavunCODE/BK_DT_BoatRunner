@@ -37,8 +37,7 @@ Still, it's a good example of how I write Unity C# scripts.
 Check these files if you're interested in how I write code:
 
 - `BoatController.cs` – input, movement, and control logic
-- `GunHead.cs` – (optional) shooting logic [if included]
-- Any other scripts inside `Assets/Scripts/`
+- Any other scripts =) inside `Assets/Scripts/`
 
 ---
 
